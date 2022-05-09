@@ -1,0 +1,30 @@
+C:\Users\User\source\repos\kółko i krzyżyk\kółko i krzyżyk\bin\Debug\kółko i krzyżyk.exe.config
+C:\Users\User\source\repos\kółko i krzyżyk\kółko i krzyżyk\bin\Debug\kółko i krzyżyk.exe
+C:\Users\User\source\repos\kółko i krzyżyk\kółko i krzyżyk\bin\Debug\kółko i krzyżyk.pdb
+C:\Users\User\source\repos\kółko i krzyżyk\kółko i krzyżyk\obj\Debug\kółko i krzyżyk.csprojAssemblyReference.cache
+C:\Users\User\source\repos\kółko i krzyżyk\kółko i krzyżyk\obj\Debug\kółko_i_krzyżyk.Form1.resources
+C:\Users\User\source\repos\kółko i krzyżyk\kółko i krzyżyk\obj\Debug\kółko_i_krzyżyk.Properties.Resources.resources
+C:\Users\User\source\repos\kółko i krzyżyk\kółko i krzyżyk\obj\Debug\kółko i krzyżyk.csproj.GenerateResource.cache
+C:\Users\User\source\repos\kółko i krzyżyk\kółko i krzyżyk\obj\Debug\kółko i krzyżyk.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\kółko i krzyżyk\kółko i krzyżyk\obj\Debug\kółko i krzyżyk.exe
+C:\Users\User\source\repos\kółko i krzyżyk\kółko i krzyżyk\obj\Debug\kółko i krzyżyk.pdb
+C:\Users\User\Desktop\C# Visual\kółko i krzyżyk\kółko i krzyżyk\bin\Debug\kółko i krzyżyk.exe.config
+C:\Users\User\Desktop\C# Visual\kółko i krzyżyk\kółko i krzyżyk\bin\Debug\kółko i krzyżyk.exe
+C:\Users\User\Desktop\C# Visual\kółko i krzyżyk\kółko i krzyżyk\bin\Debug\kółko i krzyżyk.pdb
+C:\Users\User\Desktop\C# Visual\kółko i krzyżyk\kółko i krzyżyk\obj\Debug\kółko i krzyżyk.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C# Visual\kółko i krzyżyk\kółko i krzyżyk\obj\Debug\kółko_i_krzyżyk.Form1.resources
+C:\Users\User\Desktop\C# Visual\kółko i krzyżyk\kółko i krzyżyk\obj\Debug\kółko_i_krzyżyk.Properties.Resources.resources
+C:\Users\User\Desktop\C# Visual\kółko i krzyżyk\kółko i krzyżyk\obj\Debug\kółko i krzyżyk.csproj.GenerateResource.cache
+C:\Users\User\Desktop\C# Visual\kółko i krzyżyk\kółko i krzyżyk\obj\Debug\kółko i krzyżyk.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# Visual\kółko i krzyżyk\kółko i krzyżyk\obj\Debug\kółko i krzyżyk.exe
+C:\Users\User\Desktop\C# Visual\kółko i krzyżyk\kółko i krzyżyk\obj\Debug\kółko i krzyżyk.pdb
+C:\Users\User\Desktop\kółko i krzyżyk\kółko i krzyżyk\bin\Debug\kółko i krzyżyk.exe.config
+C:\Users\User\Desktop\kółko i krzyżyk\kółko i krzyżyk\bin\Debug\kółko i krzyżyk.exe
+C:\Users\User\Desktop\kółko i krzyżyk\kółko i krzyżyk\bin\Debug\kółko i krzyżyk.pdb
+C:\Users\User\Desktop\kółko i krzyżyk\kółko i krzyżyk\obj\Debug\kółko i krzyżyk.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\kółko i krzyżyk\kółko i krzyżyk\obj\Debug\kółko_i_krzyżyk.Form1.resources
+C:\Users\User\Desktop\kółko i krzyżyk\kółko i krzyżyk\obj\Debug\kółko_i_krzyżyk.Properties.Resources.resources
+C:\Users\User\Desktop\kółko i krzyżyk\kółko i krzyżyk\obj\Debug\kółko i krzyżyk.csproj.GenerateResource.cache
+C:\Users\User\Desktop\kółko i krzyżyk\kółko i krzyżyk\obj\Debug\kółko i krzyżyk.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\kółko i krzyżyk\kółko i krzyżyk\obj\Debug\kółko i krzyżyk.exe
+C:\Users\User\Desktop\kółko i krzyżyk\kółko i krzyżyk\obj\Debug\kółko i krzyżyk.pdb
