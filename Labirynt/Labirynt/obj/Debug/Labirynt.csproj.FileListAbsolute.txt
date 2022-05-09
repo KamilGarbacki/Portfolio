@@ -1,0 +1,20 @@
+C:\Users\User\source\repos\Labirynt\Labirynt\bin\Debug\Labirynt.exe.config
+C:\Users\User\source\repos\Labirynt\Labirynt\bin\Debug\Labirynt.exe
+C:\Users\User\source\repos\Labirynt\Labirynt\bin\Debug\Labirynt.pdb
+C:\Users\User\source\repos\Labirynt\Labirynt\obj\Debug\Labirynt.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Labirynt\Labirynt\obj\Debug\Labirynt.Form1.resources
+C:\Users\User\source\repos\Labirynt\Labirynt\obj\Debug\Labirynt.Properties.Resources.resources
+C:\Users\User\source\repos\Labirynt\Labirynt\obj\Debug\Labirynt.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Labirynt\Labirynt\obj\Debug\Labirynt.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Labirynt\Labirynt\obj\Debug\Labirynt.exe
+C:\Users\User\source\repos\Labirynt\Labirynt\obj\Debug\Labirynt.pdb
+C:\Users\User\Desktop\C# Visual\Labirynt\Labirynt\bin\Debug\Labirynt.exe.config
+C:\Users\User\Desktop\C# Visual\Labirynt\Labirynt\bin\Debug\Labirynt.exe
+C:\Users\User\Desktop\C# Visual\Labirynt\Labirynt\bin\Debug\Labirynt.pdb
+C:\Users\User\Desktop\C# Visual\Labirynt\Labirynt\obj\Debug\Labirynt.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C# Visual\Labirynt\Labirynt\obj\Debug\Labirynt.Form1.resources
+C:\Users\User\Desktop\C# Visual\Labirynt\Labirynt\obj\Debug\Labirynt.Properties.Resources.resources
+C:\Users\User\Desktop\C# Visual\Labirynt\Labirynt\obj\Debug\Labirynt.csproj.GenerateResource.cache
+C:\Users\User\Desktop\C# Visual\Labirynt\Labirynt\obj\Debug\Labirynt.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# Visual\Labirynt\Labirynt\obj\Debug\Labirynt.exe
+C:\Users\User\Desktop\C# Visual\Labirynt\Labirynt\obj\Debug\Labirynt.pdb
