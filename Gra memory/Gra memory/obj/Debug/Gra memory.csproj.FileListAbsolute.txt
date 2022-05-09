@@ -1,0 +1,69 @@
+C:\Users\User\source\repos\Gra memory\Gra memory\bin\Debug\Gra memory.exe.config
+C:\Users\User\source\repos\Gra memory\Gra memory\bin\Debug\Gra memory.exe
+C:\Users\User\source\repos\Gra memory\Gra memory\bin\Debug\Gra memory.pdb
+C:\Users\User\source\repos\Gra memory\Gra memory\obj\Debug\Gra memory.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Gra memory\Gra memory\obj\Debug\Gra_memory.Form1.resources
+C:\Users\User\source\repos\Gra memory\Gra memory\obj\Debug\Gra_memory.Properties.Resources.resources
+C:\Users\User\source\repos\Gra memory\Gra memory\obj\Debug\Gra memory.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Gra memory\Gra memory\obj\Debug\Gra memory.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Gra memory\Gra memory\obj\Debug\Gra memory.exe
+C:\Users\User\source\repos\Gra memory\Gra memory\obj\Debug\Gra memory.pdb
+C:\Users\User\source\repos\Gra memory\Gra memory\bin\Debug\obrazki\Karty\andro.jpg
+C:\Users\User\source\repos\Gra memory\Gra memory\bin\Debug\obrazki\Karty\apple.jpg
+C:\Users\User\source\repos\Gra memory\Gra memory\bin\Debug\obrazki\Karty\chasz.jpg
+C:\Users\User\source\repos\Gra memory\Gra memory\bin\Debug\obrazki\Karty\cplus.jpg
+C:\Users\User\source\repos\Gra memory\Gra memory\bin\Debug\obrazki\Karty\css.jpg
+C:\Users\User\source\repos\Gra memory\Gra memory\bin\Debug\obrazki\Karty\html.jpg
+C:\Users\User\source\repos\Gra memory\Gra memory\bin\Debug\obrazki\Karty\java.jpg
+C:\Users\User\source\repos\Gra memory\Gra memory\bin\Debug\obrazki\Karty\js.jpg
+C:\Users\User\source\repos\Gra memory\Gra memory\bin\Debug\obrazki\Karty\php.jpg
+C:\Users\User\source\repos\Gra memory\Gra memory\bin\Debug\obrazki\Karty\pyt.jpg
+C:\Users\User\source\repos\Gra memory\Gra memory\bin\Debug\obrazki\Karty\scra.jpg
+C:\Users\User\source\repos\Gra memory\Gra memory\bin\Debug\obrazki\Karty\sql.jpg
+C:\Users\User\source\repos\Gra memory\Gra memory\bin\Debug\obrazki\logo.jpg
+C:\Users\User\Desktop\C# Visual\Gra memory\Gra memory\bin\Debug\obrazki\Karty\andro.jpg
+C:\Users\User\Desktop\C# Visual\Gra memory\Gra memory\bin\Debug\obrazki\Karty\apple.jpg
+C:\Users\User\Desktop\C# Visual\Gra memory\Gra memory\bin\Debug\obrazki\Karty\chasz.jpg
+C:\Users\User\Desktop\C# Visual\Gra memory\Gra memory\bin\Debug\obrazki\Karty\cplus.jpg
+C:\Users\User\Desktop\C# Visual\Gra memory\Gra memory\bin\Debug\obrazki\Karty\css.jpg
+C:\Users\User\Desktop\C# Visual\Gra memory\Gra memory\bin\Debug\obrazki\Karty\html.jpg
+C:\Users\User\Desktop\C# Visual\Gra memory\Gra memory\bin\Debug\obrazki\Karty\java.jpg
+C:\Users\User\Desktop\C# Visual\Gra memory\Gra memory\bin\Debug\obrazki\Karty\js.jpg
+C:\Users\User\Desktop\C# Visual\Gra memory\Gra memory\bin\Debug\obrazki\Karty\php.jpg
+C:\Users\User\Desktop\C# Visual\Gra memory\Gra memory\bin\Debug\obrazki\Karty\pyt.jpg
+C:\Users\User\Desktop\C# Visual\Gra memory\Gra memory\bin\Debug\obrazki\Karty\scra.jpg
+C:\Users\User\Desktop\C# Visual\Gra memory\Gra memory\bin\Debug\obrazki\Karty\sql.jpg
+C:\Users\User\Desktop\C# Visual\Gra memory\Gra memory\bin\Debug\obrazki\logo.jpg
+C:\Users\User\Desktop\C# Visual\Gra memory\Gra memory\bin\Debug\Gra memory.exe.config
+C:\Users\User\Desktop\C# Visual\Gra memory\Gra memory\bin\Debug\Gra memory.exe
+C:\Users\User\Desktop\C# Visual\Gra memory\Gra memory\bin\Debug\Gra memory.pdb
+C:\Users\User\Desktop\C# Visual\Gra memory\Gra memory\obj\Debug\Gra memory.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C# Visual\Gra memory\Gra memory\obj\Debug\Gra_memory.Form1.resources
+C:\Users\User\Desktop\C# Visual\Gra memory\Gra memory\obj\Debug\Gra_memory.Properties.Resources.resources
+C:\Users\User\Desktop\C# Visual\Gra memory\Gra memory\obj\Debug\Gra memory.csproj.GenerateResource.cache
+C:\Users\User\Desktop\C# Visual\Gra memory\Gra memory\obj\Debug\Gra memory.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# Visual\Gra memory\Gra memory\obj\Debug\Gra memory.exe
+C:\Users\User\Desktop\C# Visual\Gra memory\Gra memory\obj\Debug\Gra memory.pdb
+C:\Users\User\Desktop\Gra memory\Gra memory\bin\Debug\obrazki\Karty\andro.jpg
+C:\Users\User\Desktop\Gra memory\Gra memory\bin\Debug\obrazki\Karty\apple.jpg
+C:\Users\User\Desktop\Gra memory\Gra memory\bin\Debug\obrazki\Karty\chasz.jpg
+C:\Users\User\Desktop\Gra memory\Gra memory\bin\Debug\obrazki\Karty\cplus.jpg
+C:\Users\User\Desktop\Gra memory\Gra memory\bin\Debug\obrazki\Karty\css.jpg
+C:\Users\User\Desktop\Gra memory\Gra memory\bin\Debug\obrazki\Karty\html.jpg
+C:\Users\User\Desktop\Gra memory\Gra memory\bin\Debug\obrazki\Karty\java.jpg
+C:\Users\User\Desktop\Gra memory\Gra memory\bin\Debug\obrazki\Karty\js.jpg
+C:\Users\User\Desktop\Gra memory\Gra memory\bin\Debug\obrazki\Karty\php.jpg
+C:\Users\User\Desktop\Gra memory\Gra memory\bin\Debug\obrazki\Karty\pyt.jpg
+C:\Users\User\Desktop\Gra memory\Gra memory\bin\Debug\obrazki\Karty\scra.jpg
+C:\Users\User\Desktop\Gra memory\Gra memory\bin\Debug\obrazki\Karty\sql.jpg
+C:\Users\User\Desktop\Gra memory\Gra memory\bin\Debug\obrazki\logo.jpg
+C:\Users\User\Desktop\Gra memory\Gra memory\bin\Debug\Gra memory.exe.config
+C:\Users\User\Desktop\Gra memory\Gra memory\bin\Debug\Gra memory.exe
+C:\Users\User\Desktop\Gra memory\Gra memory\bin\Debug\Gra memory.pdb
+C:\Users\User\Desktop\Gra memory\Gra memory\obj\Debug\Gra memory.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Gra memory\Gra memory\obj\Debug\Gra_memory.Form1.resources
+C:\Users\User\Desktop\Gra memory\Gra memory\obj\Debug\Gra_memory.Properties.Resources.resources
+C:\Users\User\Desktop\Gra memory\Gra memory\obj\Debug\Gra memory.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Gra memory\Gra memory\obj\Debug\Gra memory.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Gra memory\Gra memory\obj\Debug\Gra memory.exe
+C:\Users\User\Desktop\Gra memory\Gra memory\obj\Debug\Gra memory.pdb
